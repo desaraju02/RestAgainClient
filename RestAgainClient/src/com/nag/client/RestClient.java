@@ -36,6 +36,8 @@ public class RestClient {
 		    
 		    System.out.println("HTML Response is: "+htmlAnswer);
 		    
+		    System.out.println(" Good job !!");
+		    
 		    
 	}
 
